@@ -4,12 +4,14 @@ A simple web-based Tic Tac Toe (Noughts and Crosses) game built using HTML, CSS,
 
 ## Features
 
-- Two-player mode
+- Two-player mode  (Player X vs Player O)
+- Win detection Logic
+- New and Reset game functionality
 - Clean and intuitive UI
-- New and Reset game animations
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript 
+
