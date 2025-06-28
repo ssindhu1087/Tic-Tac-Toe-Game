@@ -11,7 +11,7 @@ A simple web-based Tic Tac Toe (Noughts and Crosses) game built using HTML, CSS,
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript 
+- **HTML** – Structure of the game
+- **CSS** – Styling and layout
+- **JavaScript** – Game logic and interactivity
 
